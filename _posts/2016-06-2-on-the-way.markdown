@@ -10,7 +10,7 @@ tags:
     - 评论
     - 喵包子
 ---
-![Picture in Picture](http://www.xorosho.com/uploads/posts/2012-06/1339240111_snowpatrol2.jpg)
+![Picture in Picture](https://github.com/zx08uestc/zx08uestc.github.io/blob/master/img/posts_ontheway.jpg)
 
 ### 前言
 
