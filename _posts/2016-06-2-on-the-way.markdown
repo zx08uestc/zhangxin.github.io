@@ -4,7 +4,7 @@ title:      "On the way"
 subtitle:   "Yaking的第一篇乐评"
 date:       2016-06-02 
 author:     "公子如花"
-header-img: "img/post-bg-e2e-ux.jpg"
+header-img: "img/posts_ontheway.jpg"
 tags:
     - 音乐
     - 评论
