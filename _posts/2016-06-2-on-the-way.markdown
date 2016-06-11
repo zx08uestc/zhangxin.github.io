@@ -11,7 +11,7 @@ tags:
     - 喵包子
 ---
 
-
+![Picture in Picture](img/post-ont-the-way.jpg)
 ### 前言
 
 这是Yaking的第一篇乐评，发布在微信公众号公众号：喵包子，欢迎喜欢的童鞋去关注这个公众号。
