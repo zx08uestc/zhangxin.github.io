@@ -4,13 +4,13 @@ title:      "On the way"
 subtitle:   "Yaking的第一篇乐评"
 date:       2016-06-02 
 author:     "公子如花"
-header-img: "img/posts_ontheway.jpg"
+header-img: "img/post-bg-rwd.jpg"
 tags:
     - 音乐
     - 评论
     - 喵包子
 ---
-![Picture in Picture](https://github.com/zx08uestc/zx08uestc.github.io/blob/master/img/posts_ontheway.jpg)
+![Picture in Picture](img/posts_ontheway.jpg)
 
 ### 前言
 
