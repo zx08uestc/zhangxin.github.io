@@ -18,7 +18,7 @@ tags:
 
 
 ### 正文 
-![Picture in Picture](https://github.com/zx08uestc/zx08uestc.github.io/blob/master/img/posts_ontheway.jpg)
+![Picture](http://www.xorosho.com/uploads/posts/2012-06/1339240111_snowpatrol2.jpg)
 
  Snow Patrol(雪警合唱团)，1997年成立于苏格兰。这只五人乐队成立至今，专辑数目屈指可数，而最近一次被大众熟知是因为蜘蛛侠3的主题曲《Signal Fire》，那句经典的“All this fear falls away to leave me naked，Hold me close cause I need you to guide me to safety”一响起，即便隔着时空和次元，我们仿佛也能感受到蜘蛛侠处于正邪边界时的无助和渴望。
 
