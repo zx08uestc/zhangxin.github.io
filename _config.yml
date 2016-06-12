@@ -80,10 +80,10 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
-# Friends
+# The One
 friends: [
     {
-        title: "张鑫的博客",
+        title: "张鑫的微博",
         href: "http://weibo.com/zx08uestc"
     }
 ]
